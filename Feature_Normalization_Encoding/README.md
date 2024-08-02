@@ -1,3 +1,20 @@
+# ***Overview Of Feature Normalization Encoding***
+- Feature normalization is a data preprocessing technique used to rescale features to a specific range, typically between 0 and 1.
+    - **Common Methods**: 
+ 
+        Min-Max Scaling
+        Standardization
+
+- Feature encoding is a process of converting categorical data into numerical format, as most machine learning algorithms work with numerical data.
+
+    - **Common Methods**: 
+  
+        One-Hot Encoding
+
+        Label Encoding
+
+        Ordinal Encoding    
+
 # ***Content***
 ### **feature_encoding_scaling**
 - Standard Scalar Z-Score Normalization
